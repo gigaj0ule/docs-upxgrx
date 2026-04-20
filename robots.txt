@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-0rs3pl.gcpinboxes.com/sitemap.xml
